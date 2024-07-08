@@ -4,3 +4,39 @@
     background-attachment: scroll; /* Забезпечуємо прокручування фону */
     height: 100vh; /* Встановлюємо висоту контейнера на весь екран */
 }
+.inputNumbers {
+    box-shadow: 3px 3px 0px 0px #00000040;
+    width: 215px;
+    height: 35px;
+    border-radius: 20px;
+    border: none;
+    background: #D7D7D7;
+}
+.numberGuess {
+    text-align: center;
+    font-family: 'Montserrat Alternates';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+   
+
+
+}
+.inputNumber {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+.dash {
+    width: 536px;
+
+}
+.maxNumber {
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.5px;
+    
+
+}
