@@ -1,0 +1,6 @@
+.mainGamesimg {
+    background-image: url('C:/Users/Owner/Downloads/Group 141.png');
+    background-repeat:  no-repeat;
+    background-attachment: scroll; /* Забезпечуємо прокручування фону */
+    height: 100vh; /* Встановлюємо висоту контейнера на весь екран */
+}
